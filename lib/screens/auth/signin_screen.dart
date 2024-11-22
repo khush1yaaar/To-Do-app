@@ -44,11 +44,6 @@ class _SignInScreenState extends State<SignInScreen> {
         print("something went wrong!");
       }
     }
-    // else {
-    //   setState(() {
-
-    //   });
-    // }
   }
 
   @override
