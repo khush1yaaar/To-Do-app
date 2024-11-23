@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:jwt_decoder/jwt_decoder.dart';
-import 'package:todoappp/screens/config.dart';
+import 'package:todoappp/config.dart';
 import 'package:todoappp/widgets/dialogs.dart';
 import 'package:http/http.dart' as http;
 

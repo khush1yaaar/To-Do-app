@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:todoappp/screens/auth/login_screen.dart';
-import 'package:todoappp/screens/config.dart';
+import 'package:todoappp/config.dart';
 import 'package:http/http.dart' as http;
 
 class SignInScreen extends StatefulWidget {

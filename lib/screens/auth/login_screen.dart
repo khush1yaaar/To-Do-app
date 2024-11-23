@@ -4,7 +4,7 @@ import 'package:todoappp/screens/auth/signin_screen.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-import 'package:todoappp/screens/config.dart';
+import 'package:todoappp/config.dart';
 import 'package:todoappp/screens/home_screen.dart';
 
 class LoginScreen extends StatefulWidget {
